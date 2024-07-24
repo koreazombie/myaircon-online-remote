@@ -2,7 +2,7 @@
 
 이 코드는 한국의 유튜버 [애플코딩](https://youtu.be/bn59L-ar744?si=HNe4R0KTGRzrVgSE)의 [세계최초 온라인 에어컨](http://myaircon.online)을 조절하는 리모컨이다. 아쉽게도 세계최초 온라인 에어컨의 조작부는 모두에게 공개되어 있기 때문에 내가 원하는 온도를 유지하는 게 어려워 이 코드를 제작하게 되었다.
 
-
+![myaircon-online-remote](https://github.com/user-attachments/assets/91e46f6c-4f16-48c7-b988-1d541f881207)
 
 이 스크립트는 27°C의 최적 온도를 유지하기 위해 온도를 자동으로 조절하며, 딜레이 시간을 자동으로 조정하고, 사용자가 설정을 조작할 수 있는 인터페이스를 제공합니다.
 
