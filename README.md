@@ -1,6 +1,6 @@
 # Temperature Control Automation Script
 
-이 코드는 한국의 유튜버 [애플코딩](https://youtu.be/bn59L-ar744?si=HNe4R0KTGRzrVgSE)의 [세계최초 온라인 에어컨](http://myaircon.online)]을 조절하는 리모컨이다. 아쉽게도 세계최초 온라인 에어컨의 조작부는 모두에게 공개되어 있기 때문에 내가 원하는 온도를 유지하는 게 어려워 이 코드를 제작하게 되었다.
+이 코드는 한국의 유튜버 [애플코딩](https://youtu.be/bn59L-ar744?si=HNe4R0KTGRzrVgSE)의 [세계최초 온라인 에어컨](http://myaircon.online)을 조절하는 리모컨이다. 아쉽게도 세계최초 온라인 에어컨의 조작부는 모두에게 공개되어 있기 때문에 내가 원하는 온도를 유지하는 게 어려워 이 코드를 제작하게 되었다.
 
 
 
