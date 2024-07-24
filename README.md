@@ -34,15 +34,15 @@
 
 1. 리포지토리 클론:
     ```sh
-    git clone https://github.com/yourusername/temperature-control-automation.git
+    $ git clone https://github.com/koreazombie/myaircon-online-remote.git
     ```
 
 2. 프로젝트 디렉토리로 이동:
     ```sh
-    cd temperature-control-automation
+    $ cd myaircon-online-remote
     ```
-
+    
 3. 코드를 복사하여 웹 브라우저의 개발자 도구 콘솔 창에 붙여넣기:
-    - 웹 페이지를 열고, `F12` 또는 `Ctrl+Shift+I`를 눌러 개발자 도구를 엽니다.
+    - 웹 페이지를 열고, `F12` 또는 `Ctrl+Shift+I`를 눌러 개발자 도구를 엽니다. 맥(MAC) `Command+option+i`
     - `Console` 탭으로 이동합니다.
     - `temperature-control-automation.js` 파일의 코드를 복사하여 콘솔 창에 붙여넣고 엔터를 눌러 실행합니다.
